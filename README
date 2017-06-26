@@ -1,1 +1,4 @@
 # Adversarial-Reverse-Engineering
+
+Make sure to install the python nltk and sklearn packages.
+Then run "python init.py" to download necessary nltk packages
